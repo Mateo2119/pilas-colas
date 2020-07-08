@@ -14,7 +14,7 @@ pila Pila[3];
  char x; 
   
  do{
-   cout<<"Escriba un mùltiplo de 3: ";
+   cout<<"Escriba un multiplo de 3: ";
    cin>> tam;}
  while (tam%3!=0);
  i=1;
