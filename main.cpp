@@ -18,7 +18,7 @@ pila Pila[3];
    cin>> tam;}
  while (tam%3!=0);
  i=1;
- x=0;
+ x=33;
  cout<<x;
  while(i<=tam && i<255)
   { if((x==0)||(x==13)||(x==32)||(x>6&&x<11))
